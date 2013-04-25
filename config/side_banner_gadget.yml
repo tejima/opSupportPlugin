@@ -1,0 +1,7 @@
+topicBox:
+  caption:
+    ja_JP: "サポートトピック"
+  description:
+    ja_JP: "サポートコミュニティ用のトピックボックスです"
+  viewable_privilege: 4
+  component: [support, htmlBox]

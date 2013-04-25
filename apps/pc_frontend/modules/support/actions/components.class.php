@@ -3,7 +3,11 @@
 class supportComponents extends sfComponents
 {
 
- public function executeTopicBox()
-  {
-  }
+ public function executeHtmlBox()
+ {
+ }
+ public function executeQuestionBox()
+ {
+ }
+
 }
