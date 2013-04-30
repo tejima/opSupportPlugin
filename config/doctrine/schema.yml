@@ -7,16 +7,13 @@ Tag:
       type: integer(4)
       primary: true
       autoincrement: true
-    foreign_id:
-      type: integer(4)
+    entity:
+      type: string(12)
       notnull: true
-    foreign_table:
-      type: char(1)
-      notnull: true
-    tag_id:
-      type: integer(4)
+    tag:
+      type: string(16)
       notnull: true
   indexes:
-    foreign_id_foreign_table_foreign_id_UNIQUE:
-      fields: [foreign_id, foreign_table, tag_id]
+    entity_tag_UNIQUE:
+      fields: [entity,tag]
       type: unique

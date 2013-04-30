@@ -5,3 +5,10 @@ questionBox:
     ja_JP: "質問ボタンを表示するガジェットです"
   viewable_privilege: 4
   component: [support, questionBox]
+topicBox:
+  caption:
+    ja_JP: "サポートトピック"
+  description:
+    ja_JP: "サポートコミュニティ用のトピックボックスです"
+  viewable_privilege: 4
+  component: [support, htmlBox]

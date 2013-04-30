@@ -9,5 +9,8 @@ class supportComponents extends sfComponents
  public function executeQuestionBox()
  {
  }
+ public function executeSidesupportBox()
+ {
+ }
 
 }

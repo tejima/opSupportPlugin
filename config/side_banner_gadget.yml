@@ -1,7 +1,7 @@
-topicBox:
+sidesupportBox:
   caption:
-    ja_JP: "サポートトピック"
+    ja_JP: "サイドサポート"
   description:
-    ja_JP: "サポートコミュニティ用のトピックボックスです"
+    ja_JP: "JS HTMLを格納"
   viewable_privilege: 4
-  component: [support, htmlBox]
+  component: [support, sidesupportBox]
