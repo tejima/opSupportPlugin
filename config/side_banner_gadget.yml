@@ -2,6 +2,6 @@ sidesupportBox:
   caption:
     ja_JP: "サイドサポート"
   description:
-    ja_JP: "JS HTMLを格納"
+    ja_JP: "JS HTMLを格納するボックスです。再度領域に置いてください。"
   viewable_privilege: 4
   component: [support, sidesupportBox]

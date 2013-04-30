@@ -9,6 +9,12 @@
 -->
 <div class="dparts box">
   <div class="parts">
+
+
+    <a class="btn btn-success btn-block btn-large" href="/communityTopic/new/2"><i class="icon-pencil icon-white"></i>質問する</a>
+
+    <div style="margin: 20px;"></div>
+
     <a href="#" class="btn btn-info btn-block disabled">教えてください（HELPME）</a>
     <ul class="unstyled topic_list" data-tag="HELPME" data-tag_minus="CLOSED">
     </ul>
@@ -33,7 +39,9 @@
 
     <div style="margin: 5px;"></div>
 
-    <a class="btn btn-info btn-block" href="/communityTopic/recentlyTopicList"><i class="icon-search icon-white"></i>  その他のQ&A</a>
+    <a class="btn btn-info btn-block" href="/communityTopic/recentlyTopicList"><i class="icon-list icon-white"></i>その他のQ&A</a>
+
+
   </div>
 </div>
 
